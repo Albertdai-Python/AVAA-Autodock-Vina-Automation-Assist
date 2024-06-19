@@ -63,4 +63,6 @@ protein files *(.pdbqt format)*
 	- **In results folder**:
 		- pdbqt output files
 	- the ligands
-
+# Note
+- You will see the docking progress as how many proteins and ligands elapsed
+- You can also adjust the iteration number via the var *iteration* in the declaration part
