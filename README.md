@@ -1,5 +1,12 @@
 
 # AVAA-Autodock-Vina-Automation-Assist
+# Modules to install
+**python**
+- pubchempy
+- requests
+- openbabel-wheel
+**Vina**
+- version 1.0.2
 # File syntax
 **Required Files:**
 ligands.txt
