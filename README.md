@@ -1,7 +1,7 @@
 
 # AVAA-Autodock-Vina-Automation-Assist
 # Modules to install
-**python**
+**Python**
 - pubchempy
 - requests
 - openbabel-wheel
